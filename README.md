@@ -1,1 +1,1 @@
-This game created for practice
+This game created for android practice
